@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rocket_cost_per_launch">Custo de lançamento: $%dm</string>
+    <string name="rocket_first_flight">Primeiro voo: %s</string>
+    <string name="rocket_height">Altura: %dm</string>
+    <string name="rocket_weight">Peso: %dt</string>
+
+    <string name="rockets_error_fetching">Desculpe, algo deu errado ao buscar os foguetes</string>
+    <string name="rockets_error_refreshing">Desculpe, algo deu errado ao atualizar os foguetes</string>
+
+    <string name="rocket_image_content_description">Image do foguete</string>
+</resources>
